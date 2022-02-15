@@ -1,0 +1,21 @@
+ .navbar{
+    background: #0E0D0D;
+    padding: 15px;
+    color: #FFF;
+}
+.navbar .nav_list {
+  margin-left: auto !important;
+}
+.navbar button:focus{
+  outline: none;
+  box-shadow: none;
+  border: none !important;
+}
+.navbar .nav_list ul li a{
+  color: hsla(0,0%,100%,.55) !important;
+  font-size: 22px;
+  font-weight: 600;
+}
+.navbar .nav_list ul li a:hover{
+  color: hsla(0,0%,100%,.75)  !important;
+}

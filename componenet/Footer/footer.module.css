@@ -1,0 +1,37 @@
+.footer{
+ background:#0E0D0D ;
+ padding-top: 3rem;;
+ padding-bottom: 3rem;
+}
+.footer h4{
+    color: rgba(255, 255, 255, 0.863) !important;
+    font-weight: 600;
+}
+.footer ul{
+   list-style: none;
+   justify-content: center;
+}
+.footer ul li{
+    padding: 8px 12px;
+}
+.footer ul li a i{
+    color: #f8f9fa;
+    border: 0.15rem solid!important;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.footer ul li a i:hover{
+    color: #000;
+background-color: #f8f9fa;
+}
+
+.copyright{
+  background: #1D1D1D;
+}
+

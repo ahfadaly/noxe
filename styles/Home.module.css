@@ -1,0 +1,18 @@
+
+.item h2{
+    color: rgba(255, 255, 255, 0.863) !important;
+    font-size: 40px;
+    font-weight: 600;
+}
+.item p{
+    color: rgba(255, 255, 255, 0.863) !important;
+    font-size: 22px;
+}
+@media (max-width:767px) {
+    .item h2{
+        font-size: 25px;
+    }
+    .item p{
+        font-size: 17px;
+    }
+}
